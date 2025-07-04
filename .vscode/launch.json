@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "TaskManagerApplication",
+            "request": "launch",
+            "mainClass": "src.main.java.com.example.taskmanager.TaskManagerApplication",
+            "projectName": "New Project for our purpose to easily resolve our problem_e854471c"
+        },
+        {
+            "type": "java",
+            "name": "TaskManagerApplication(1)",
+            "request": "launch",
+            "mainClass": "com.example.taskmanager.TaskManagerApplication",
+            "projectName": "taskmanager"
+        }
+    ]
+}
